@@ -23,7 +23,7 @@ For easy prototyping and modelling, Python and the NumPy library are used instea
 ```bash
 conda create --name kitti -y python=3 \
 && conda activate kitti \
-&& git clone https://github.com/scud3r1a/exploreKITTI.git \
+&& git clone https://github.com/rwschubert/exploreKITTI.git \
 && pip install numpy pykitti matplotlib opencv-python opencv-contrib-python moviepy \
 && mkdir frames
 ```

@@ -1,0 +1,12 @@
+# Dev files
+*.zip
+.idea/
+*.gif
+
+# Execution files
+data/
+exploreKITTI/
+frames/
+
+# Python cache
+__pycache__
